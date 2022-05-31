@@ -705,8 +705,9 @@ ol {
 ---------------------*/
 
 .review-section {
-	padding-top: 68px;
-	padding-bottom: 50px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+    background-color: #000000;
 }
 
 .review-item {
@@ -825,6 +826,7 @@ ol {
 .footer-section {
 	padding-top: 55px;
 	padding-bottom: 55px;
+    background-color: #000;
 }
 
 .footer-widget p {
@@ -1782,7 +1784,7 @@ ol {
 }
 
 .contact-info-warp {
-	background: #30caa0;
+	background: #ED3237;
 	padding: 30px;
 	text-align: center;
 	margin-bottom: 100px;
@@ -2155,3 +2157,14 @@ ol {
 height: 300px
 }
 /*style="align-items: center; align-content: center"*/
+
+.testimonial-header p {
+    margin-top: -10px;
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+    color: #fff;
+    
+}
+
+
